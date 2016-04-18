@@ -40,8 +40,8 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 |	Subject	|	Week	|	Date<br>M/W/S	|	Date<br>T/T/S	|	Recordings	|
 |	---	|	---:	|	---:	|	---:	|	:---:	|
-|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class]()	|
-|	HTML & CSS Intro	|	1.2	|	Wed<br>Apr 20, 2016	|	Thu<br>Apr 21, 2016	|	[Roger's Class]()	|
+|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class]()<br>	[Roger's Class]() |
+|	HTML & CSS Intro	|	1.2	|	Wed<br>Apr 20, 2016	|	Thu<br>Apr 21, 2016	|		|
 |	HTML CSS Git & Heroku	|	1.3	|	Sat<br>Apr 23, 2016	|	Sat<br>Apr 23, 2016	|		|
 |	Review + Git Branching	|	2.1	|	Mon<br>Apr 25, 2016	|	Tue<br>Apr 26, 2016	|		|
 |	Branching & Bootstrap	|	2.2	|	Wed<br>Apr 27, 2016	|	Thu<br>Apr 28, 2016	|		|
