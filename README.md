@@ -73,7 +73,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|		|
 |	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|		|
 |	Introduction To MySQL	|	12.1	|	Sat<br>Jul 02, 2016	|	Sat<br>Jul 02, 2016	|		|
-|	**Review On Tuesday<br>No Class Monday**			|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|		|
+|	**Review On Tuesday<br>No Class Monday**		|	|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|		|
 |	Using MySQL with Node.js	|	12.2	|	Wed<br>Jul 06, 2016	|	Thu<br>Jul 07, 2016	|		|
 |	Prompt + MySQL + Node.js	|	12.3	|	Sat<br>Jul 09, 2016	|	Sat<br>Jul 09, 2016	|		|
 |	Node.js Web Servers	|	13.1	|	Mon<br>Jul 11, 2016	|	Tue<br>Jul 12, 2016	|		|
