@@ -40,7 +40,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 |	Subject	|	Week	|	Date<br>M/W/S	|	Date<br>T/T/S	|	Recordings	|
 |	---	|	---:	|	---:	|	---:	|	:---:	|
-|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432c216e-b7ef-41c5-8b50-5933109a3c71)<br>	[Roger's Class]() |
+|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432c216e-b7ef-41c5-8b50-5933109a3c71)<br>	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a914c003-352a-046d-e0c2-364a17a1f2a0) |
 |	HTML & CSS Intro	|	1.2	|	Wed<br>Apr 20, 2016	|	Thu<br>Apr 21, 2016	|		|
 |	HTML CSS Git & Heroku	|	1.3	|	Sat<br>Apr 23, 2016	|	Sat<br>Apr 23, 2016	|		|
 |	Review + Git Branching	|	2.1	|	Mon<br>Apr 25, 2016	|	Tue<br>Apr 26, 2016	|		|
