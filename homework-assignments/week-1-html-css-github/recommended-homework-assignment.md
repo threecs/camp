@@ -21,7 +21,7 @@ In this assignment, you will be building a professional portfolio site using HTM
 4. Push up the above changes to Github (Make sure to `git add .` and `git commit -m "initial site files"` then type `git push origin master` to push your changes to your Github repo.
 5. Reference the screenshots for the site located here:
     + What you code must exactly match this layout (excluding minor changes like replacing "your name" with your actual name and writing your own unique bio, etc). The design itself must match the screenshots. The specs are located below.
-    
+    + ![Portfolio Mockup](Images/Portfolio_Mockup.png)
     + ![Portfolio About](Images/Portfolio_About.png)
 
     + ![Portfolio Contact](Images/Portfolio_Contact.png)
