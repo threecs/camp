@@ -14,4 +14,9 @@ a:active{
 	background-color: black;
 }
 
+a:visited
+{
+	color: magenta;
+}
+
 
