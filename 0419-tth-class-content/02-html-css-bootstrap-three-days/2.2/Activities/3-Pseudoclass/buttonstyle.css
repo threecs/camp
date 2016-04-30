@@ -1,0 +1,22 @@
+a{
+	font-size: 64px;
+}
+
+a:hover{
+	background-color: red;
+}
+
+a:focus{
+	background-color: orange;
+}
+
+a:active{
+	background-color: black;
+}
+
+a:visited
+{
+	color: magenta;
+}
+
+

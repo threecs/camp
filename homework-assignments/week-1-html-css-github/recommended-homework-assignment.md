@@ -1,7 +1,7 @@
-## Week 1 (Easier) Assignment - That Portfolio Though...
+## Week 1 (Recommended) Assignment - That Portfolio Though...
 
 ### Overview
-In this assignment, you will be building a professional portfolio site usin HTML/CSS. You will be following a style guide to create aesthetically pleasing CSS and adding variuos links to HTML documents. Once you're handiwork is complete, you will be uploading your code to GitHub and Heroku.
+In this assignment, you will be building a professional portfolio site using HTML/CSS. You will be following a style guide to create aesthetically pleasing CSS and adding various links to HTML documents. Once your handiwork is complete, you will be uploading your code to GitHub and Heroku.
 
 ### Student Notes
 * Welcome to your first opportunity as a front-end web developer. In today's activity, you will be advocating for the most important client of all -- yourself! In making a portfolio, you are taking a first step towards building your brand as a web designer.
@@ -21,7 +21,7 @@ In this assignment, you will be building a professional portfolio site usin HTML
 4. Push up the above changes to Github (Make sure to `git add .` and `git commit -m "initial site files"` then type `git push origin master` to push your changes to your Github repo.
 5. Reference the screenshots for the site located here:
     + What you code must exactly match this layout (excluding minor changes like replacing "your name" with your actual name and writing your own unique bio, etc). The design itself must match the screenshots. The specs are located below.
-    
+    + ![Portfolio Mockup](Images/Portfolio_Mockup.png)
     + ![Portfolio About](Images/Portfolio_About.png)
 
     + ![Portfolio Contact](Images/Portfolio_Contact.png)

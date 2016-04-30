@@ -40,11 +40,11 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 |	Subject	|	Week	|	Date<br>M/W/S	|	Date<br>T/T/S	|	Recordings	|
 |	---	|	---:	|	---:	|	---:	|	:---:	|
-|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class]()<br>	[Roger's Class]() |
-|	HTML & CSS Intro	|	1.2	|	Wed<br>Apr 20, 2016	|	Thu<br>Apr 21, 2016	|		|
-|	HTML CSS Git & Heroku	|	1.3	|	Sat<br>Apr 23, 2016	|	Sat<br>Apr 23, 2016	|		|
-|	Review + Git Branching	|	2.1	|	Mon<br>Apr 25, 2016	|	Tue<br>Apr 26, 2016	|		|
-|	Branching & Bootstrap	|	2.2	|	Wed<br>Apr 27, 2016	|	Thu<br>Apr 28, 2016	|		|
+|	Kickoff	|	1.1	|	Mon<br>Apr 18, 2016	|	Tue<br>Apr 19, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=432c216e-b7ef-41c5-8b50-5933109a3c71)<br>	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a914c003-352a-046d-e0c2-364a17a1f2a0) |
+|	HTML & CSS Intro	|	1.2	|	Wed<br>Apr 20, 2016	|	Thu<br>Apr 21, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89d7352d-191b-4152-a8b2-7cc2b4efe9c3)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c24c7dc-fb52-434c-b7b4-b10d035cd3a3)|
+|	Heroes of CSS	|	1.3	|	Sat<br>Apr 23, 2016	|	Sat<br>Apr 23, 2016	|	[Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1be5af54-c270-43e6-9b85-1cd6ab6d88a6)<br>[Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=669a1bfb-15f1-4b8c-901e-e290193b5083)	|
+|	Review + Git Branching	|	2.1	|	Mon<br>Apr 25, 2016	|	Tue<br>Apr 26, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936a5bec-c2e4-4e37-a780-d309b2df9a77)	|
+|	Branching & Bootstrap	|	2.2	|	Wed<br>Apr 27, 2016	|	Thu<br>Apr 28, 2016	|	[Roger's Class Part1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39e3eb0c-ce40-46d2-9809-419123f8beff)<br>[Roger's Class Part2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f561db0d-3f91-467e-bf95-215f65ccaed0)|
 |	Bootstrap Continued	|	2.3	|	Sat<br>Apr 30, 2016	|	Sat<br>Apr 30, 2016	|		|
 |	Rock Paper Scissors Command Line	|	3.1	|	Mon<br>May 02, 2016	|	Tue<br>May 03, 2016	|		|
 |	Pseudo-coding & Hangman Command Line	|	3.2	|	Wed<br>May 04, 2016	|	Thu<br>May 05, 2016	|		|
@@ -73,7 +73,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|		|
 |	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|		|
 |	Introduction To MySQL	|	12.1	|	Sat<br>Jul 02, 2016	|	Sat<br>Jul 02, 2016	|		|
-|	**Review On Tuesday<br>No Class Monday**			|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|		|
+|	**Review On Tuesday<br>No Class Monday**		|	|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|		|
 |	Using MySQL with Node.js	|	12.2	|	Wed<br>Jul 06, 2016	|	Thu<br>Jul 07, 2016	|		|
 |	Prompt + MySQL + Node.js	|	12.3	|	Sat<br>Jul 09, 2016	|	Sat<br>Jul 09, 2016	|		|
 |	Node.js Web Servers	|	13.1	|	Mon<br>Jul 11, 2016	|	Tue<br>Jul 12, 2016	|		|
@@ -118,4 +118,3 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	**Demo Day**	|		|	Mon<br>Oct 10, 2016	|	Tue<br>Oct 11, 2016	|		|
 |	Conclusion	|		|	Wed<br>Oct 12, 2016	|	Thu<br>Oct 13, 2016	|		|
 |		|		|	Sat<br>Oct 15, 2016	|	Sat<br>Oct 15, 2016	|		|
-
