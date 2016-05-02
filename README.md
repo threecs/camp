@@ -61,8 +61,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>May 30, 2016	|	Tue<br>May 31, 2016	|	               	|
 |	Firebase	|	7.2	|	Wed<br>Jun 01, 2016	|	Thu<br>Jun 02, 2016	|	               	|
 |	Firebase Continued<br>+ Groups For Projects Announced	|	7.3	|	Sat<br>Jun 04, 2016	|	Sat<br>Jun 04, 2016	|	               	|
-|	"Project Mgmt
-+ Review of How Projects Will Be Run"	|	8.1	|	Mon<br>Jun 06, 2016	|	Tue<br>Jun 07, 2016	|	               	|
+|	Project Mgmt <br> + Review of How Projects Will Be Run	|	8.1	|	Mon<br>Jun 06, 2016	|	Tue<br>Jun 07, 2016	|	               	|
 |	Project Work	|	8.2	|	Wed<br>Jun 08, 2016	|	Thu<br>Jun 09, 2016	|	               	|
 |	How to Demo<br>+ Project Work	|	8.3	|	Sat<br>Jun 11, 2016	|	Sat<br>Jun 11, 2016	|	               	|
 |	Debugging Legacy Code<br>+ Interview Questions	|	9.1	|	Mon<br>Jun 13, 2016	|	Tue<br>Jun 14, 2016	|	               	|
