@@ -45,7 +45,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Heroes of CSS	|	1.3	|	Sat<br>Apr 23, 2016	|	Sat<br>Apr 23, 2016	|	[Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1be5af54-c270-43e6-9b85-1cd6ab6d88a6)<br>[Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=669a1bfb-15f1-4b8c-901e-e290193b5083)	|
 |	Review + Git Branching	|	2.1	|	Mon<br>Apr 25, 2016	|	Tue<br>Apr 26, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936a5bec-c2e4-4e37-a780-d309b2df9a77)	|
 |	Branching & Bootstrap	|	2.2	|	Wed<br>Apr 27, 2016	|	Thu<br>Apr 28, 2016	|	[Roger's Class Part1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39e3eb0c-ce40-46d2-9809-419123f8beff)<br>[Roger's Class Part2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f561db0d-3f91-467e-bf95-215f65ccaed0)|
-|	Bootstrap Continued	|	2.3	|	Sat<br>Apr 30, 2016	|	Sat<br>Apr 30, 2016	|		|
+|	Bootstrap Continued	|	2.3	|	Sat<br>Apr 30, 2016	|	Sat<br>Apr 30, 2016	|		[Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65fa7ec3-f6b5-461f-96cd-eea4376467b3)<br>[Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9b8fd54-4d25-47bf-ade7-80ac3ef8c6b5)|
 |	Rock Paper Scissors Command Line	|	3.1	|	Mon<br>May 02, 2016	|	Tue<br>May 03, 2016	|		|
 |	Pseudo-coding & Hangman Command Line	|	3.2	|	Wed<br>May 04, 2016	|	Thu<br>May 05, 2016	|		|
 |	Rock Paper Scissors in the Browser	|	3.3	|	Sat<br>May 07, 2016	|	Sat<br>May 07, 2016	|		|
