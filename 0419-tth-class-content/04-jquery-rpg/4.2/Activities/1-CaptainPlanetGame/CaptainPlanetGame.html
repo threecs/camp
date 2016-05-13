@@ -41,6 +41,7 @@
   					    <button class="btn btn-default btn-lg normalButton"><span class="glyphicon glyphicon-ok-sign"></span> Normal</button>
 					    <button class="btn btn-primary btn-lg growButton"><span class="glyphicon glyphicon-plus-sign"></span> Grow</button>
 					    <button class="btn btn-danger btn-lg shrinkButton"><span class="glyphicon glyphicon-minus-sign"></span> Shrink</button>
+					    <button class="btn btn-danger btn-lg stretchButton"><span class="glyphicon glyphicon-minus-sign"></span> Stretch</button>
 					  </div>
 				  </div>
 				</div>
@@ -120,6 +121,10 @@
 			$(".shrinkButton").on("click", function(){
 	    		$(".captainplanet").animate({height: '100px'});
 			}); 
+			// Stretch
+			$(".stretchButton").on("click", function(){
+	    		$(".captainplanet").animate({height: '100px', width: '500px'});
+			});
 
 			// Visibility Buttons
 			$(".visButton").on("click", function(){
