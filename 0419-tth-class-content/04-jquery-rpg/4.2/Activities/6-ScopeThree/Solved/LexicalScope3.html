@@ -13,14 +13,14 @@
         function one(){
           alert("One: " + a);
         }
-        one(); // what will get alerted? 
+        one(); // what will get alerted? (One: 1)
 
         //EXAMPLE TWO local scope
         function twotop() {
            function two(a) { 
              alert("Two: " + this.a); 
             }
-           two(a); // what will get alerted? 
+           two(a); // what will get alerted? (Two: 1)
         }
 
         twotop();
@@ -29,7 +29,7 @@
         var a = 5;
         function three() {
           var a = 3;
-          alert("Three: " + a); // what will get alerted 
+          alert("Three: " + a); // what will get alerted (Three: 3)
         }
         three(); 
 
@@ -37,9 +37,9 @@
         function first(){
           var a = 5;
           function second(){
-            var a = 8;
+            var a = 3;
             function third(){
-              alert("Four: " + a);  // what will get alerted? 
+              alert("Four: " + a);  // what will get alerted? (Four: 3)
             }
             third();
           } 
