@@ -23,9 +23,9 @@ You will be fully capable of doing this homework by the end of Saturday's class.
       + Inside the css folder make a file called `reset.css` and include the code found from the Meyerweb Reset.css located [here](http://meyerweb.com/eric/tools/css/reset/reset.css)
       + Inside the images folder you can save the images you plan on using.
 3. Push the above changes to Github (Make sure to `git add .` and `git commit -m "initial site files"` then type `git push origin master` to push your changes to your Github repo.
-4. Choose which game you want to make. The CrystalsCollector game is easier than making the Starwars RPG.
+4. Choose which game you want to make. The CrystalsCollector game is easier than making the RPG.
 
-### Option One: CrystalsCollector Game (easier than Starwars RPG)
+### Option One: CrystalsCollector Game (easier than RPG)
 
 CrystalsCollector!
 
@@ -44,7 +44,7 @@ Watch the demo
 ###### The random number shown at the start of the game should be between 19 - 120
 ###### Each crystal should have a random hidden value between 1 - 12
 
-### Option Two: StarWars RPG Game
+### Option Two: Pick Your Own Theme RPG Game (Ours was Star Wars)
 
 Watch the demo
 
