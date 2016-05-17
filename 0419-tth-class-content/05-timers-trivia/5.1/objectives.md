@@ -1,0 +1,3 @@
+- Students will ask conceptual questions regarding any of the subjects covered so far (HTML, CSS, GIT, Heroku, JavaScript, jQuery)
+- Students will absorb a high-level listing of the most important subjects covered to date.
+- Students will group code previous or new projects if they choose.
