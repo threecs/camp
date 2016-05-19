@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Timer</title>
+</head>
+<body>
+
+  <div id="time-left"></div>
+
+  <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+  <script>
+      //Step 1:
+        //use this link inside the Audio function below: https://p.scdn.co/mp3-preview/ed5a443bc86176135ebca8a114f66f4d814d4c90'
+      var audio = new Audio('LINK AN AUDIO FILE HERE');
+
+      //Step 2:
+        //Put your timeouts underneath this sentence
+
+      //Step 3:
+        //Fill in the blanks to these functions
+      function fiveSeconds() {
+        //Five seconds have passed, send an alert and state the time remaining in the "time-left" div.
+      }
+
+      function tenSeconds() {
+        //Ten seconds have passed, send an alert and state the time remaining in the "time-left" div.
+      }
+
+      function timeUp(){
+        //Fifteen seconds have passed, time is up! Send an alert and have the "time-left" div let the user know.
+
+        //The following line will play that audio file that you linked to above.
+        audio.play();
+      }
+  </script>
+</body>
+</html>
