@@ -9,6 +9,7 @@
 <h1>Question Game!</h1>
 
 <script>
+
 	// VARIABLES
 	// ==========================================================================
 	var questions = {
@@ -16,11 +17,16 @@
 		q2: ["There are 365 days in a year", true],
 		q3: ["There are 42 ounces in a pound", false]
 	}
+
 	var score = 0;
+
 	// FUNCTIONS
 	// ==============================================================================
+
+
 	function startGame(){
 		var q1Answer = confirm(questions.q1[0]);
+
 		if (q1Answer == questions.q1[1])
 		{
 			alert("Correct!");
@@ -29,8 +35,10 @@
 		else {
 			alert("Wrong");
 		}
+
 		// ===================================================
 		var q2Answer = confirm(questions.q2[0]);
+
 		if (q2Answer == questions.q2[1])
 		{
 			alert("Correct!");
@@ -39,21 +47,30 @@
 		else{
 			alert("Wrong");
 		}
+
 		// ===================================================
+
 		var q3Answer = confirm(questions.q3[0]);
+
 		if (q3Answer == questions.q3[1])
 		{
 			alert("Correct");
 			score++;
 		}
+
 		else {
 			alert("Wrong");
 		}
+
 		alert("You got " + score + " questions correct.")
+
 	}
+
 	// MAIN PROCESS
 	// ==============================================================================
+
 	startGame();
+
 </script>
 	
 </body>

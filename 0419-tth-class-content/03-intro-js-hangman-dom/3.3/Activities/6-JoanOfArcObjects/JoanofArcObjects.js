@@ -7,10 +7,10 @@ var joan = {
 };
 
 // We can then access the properties using the below approach:
-console.log(joan['Real Name']);
-cjoan['Grew Up Where']);
+joan['Real Name']
+joan['Grew Up Where']
 
 
 // If the "property" is only one word -- it's even easier.
-console.log(joan.symbolism);
-console.log(joan.scars);
+joan.symbolism
+joan.scars
