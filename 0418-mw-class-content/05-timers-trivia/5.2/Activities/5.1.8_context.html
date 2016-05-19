@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Context</title>
+</head>
+<body>
+  <script type="text/javascript">
+      var person = {
+        name: "Jeff",
+        sayHi: function() {
+          debugger;
+          console.log("Hi, I'm " + this.name);
+        }
+      };
+
+      person.sayHi();
+      //Hi, I'm Jeff
+
+      setTimeout(person.sayHi, 50);
+      //Hi, I'm undefined
+  </script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Coin Flipper</title>
+</head>
+<body>
+  <!-- the html is done for you -->
+  <h1>Flip A Coin!</h1>
+  <h2>Guess Heads or Tails:</h2>
+
+  <button id="heads">Heads</button>
+  <button id="tails">Tails</button>
+  <br>
+  <div>You guessed:<span id="guess"></span></div>
+  <br>
+  <div id="coin-image"></div>
+  <div id="win-lose"></div>
+  <div id="win-loss-tracker">
+    <div><h3>Wins: </h3><span id="wins"></span></div>
+    <div><h3>Losses: </h3><span id="losses"></span></div>
+    <div><h3>Heads chosen: </h3> <span id="headsChosen"></span></div>
+    <div><h3>Tails chosen: </h3> <span id="tailsChosen"></span></div>
+  </div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
+<script type="text/javascript">
+  // these variables are done for you
+  var headsCount = 0;
+  var tailsCount = 0;
+  var wins = 0;
+  var losses = 0;
+
+  //this on click is completely done for you
+  $('#heads').on('click', function() {
+    headsCount++;
+    $('#headsChosen').html(headsCount);
+
+    $('#guess').html('<b>Heads</b>');
+    flipThatCoin(0);
+  });
+
+
+  $('#tails').on('click', function() {
+    //STEP FOUR:
+      /*
+        * increment tailsCount by one
+        * replace the html inside of the span with an id of tailsChosen with the tailsCount
+
+        * update the html inside the div with an id of guess with the word Tails bolded.
+        * call the flipThatCoin function and pass in the value 1 to it.
+      */
+  });
+
+  function flipThatCoin(result) {
+    //STEP ONE: set a variable named randomNumber to either 0 or 1. Make it random
+
+    //STEP TWO:
+      // if randomNumber is zero then
+        /*
+          * replace html of the div with an id of coin-image with an image of http://random-ize.com/coin-flip/us-quarter/us-quarter-front.jpg
+        */
+
+      // else
+        /*
+          * replace html of the div with an id of coin-image with an image of http://random-ize.com/coin-flip/us-quarter/us-quarter-back.jpg
+        */
+
+    //STEP THREE:
+      /*
+        if result is equal to randomNumber then
+          * increment wins by one
+          * update the div with an id of win-lose with an h2 of Winner!
+          * update the div with an id of wins with the value of wins inside of it
+        else
+          * increment losses by one
+          * update the div with an id of win-lose with an h2 of Loser!
+          * update the div with an id of losses with the value of losses inside of it
+      */
+  }
+</script>
+</body>
+</html>
