@@ -19,7 +19,7 @@ In this week, we will be welcoming our students to their first week of our Full-
 * [Position Example](1.3/Activities/5-CSS_PositionedLayout)
 
 ### Supplemental Resources
-* [Basic Git Push Guide (Highly Recommended)](1.2/Supplemental/GitHub-Help/)
+* [Basic Git Push Guide (Highly Recommended)](1.2/Supplemental/Github-Help)
 
 ### Helpful Links
 * [Generating an SSH Key for GitHub](https://help.github.com/articles/generating-an-ssh-key/)
