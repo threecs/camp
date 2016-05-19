@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>What is this?</title>
+
+</head>
+<body>
+  <button id="button">CLICK ME!</button>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
+  <script type="text/javascript">
+
+    var outside = function() {
+      console.log(this); //1. what will be console logged out? What is *this* in this case?
+    };
+
+    outside();
+
+
+
+
+
+
+    $('#button').on('click', function(){
+      console.log(this); //2. what will be console logged out? What is *this* in this case?
+    });
+
+
+
+
+
+
+
+
+
+
+
+
+
+    var bob = {
+      firstName: "Bob",
+      lastName: "Smith",
+      whoIsBob: function() {
+        console.log(this);
+      },
+      fullName: function() {
+        //put something inside of here so that this works
+        console.log(this.firstName + ' ' + this.lastName)
+      }
+    };
+
+    //3. what will the console log output if this function gets called:
+
+    bob.whoIsBob();
+
+
+    //4. fill in the code inside the fullName function above so that the below code console.logs out Bob's full name using the firstName and lastName properties
+
+    bob.fullName();
+
+
+
+
+
+
+
+
+
+
+
+    //5. Fill in the code below to make the theChosenOne function log "Keanu Reeves".
+    
+
+    //don't touch any of the code below!!
+    var theChosenOne = function () {
+      console.log(this.firstName + " " + this.lastName)
+    }
+
+    theChosenOne();
+
+  </script>
+</body>
+</html>
+
+
+
+

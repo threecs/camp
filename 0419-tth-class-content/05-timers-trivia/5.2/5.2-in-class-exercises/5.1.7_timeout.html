@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Timeouts</title>
+</head>
+
+<body>
+  <h1>Timeouts!</h1>
+
+  <button id="window-cancel">Window Alert Cancel</button>
+  <br>
+  <br>
+  <button id="start">Button Timeout Start</button>
+  <button id="cancel">Button Timeout Cancel</button>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
+  <script>
+    $('#start').on('click', buttonClicked);
+    $('#cancel').on('click', cancelButtonAlert);
+    $('#window-cancel').on('click', cancelWindowAlert);
+
+    var windowTimeout = setTimeout(windowAlert, 1000)
+
+    function cancelWindowAlert() {
+      clearTimeout(windowTimeout);
+    }
+
+    function windowAlert() {
+      alert('Hey Kelly and JT are sitting kind fo close to the window!')
+    }
+
+    function buttonAlert() {
+      alert('Hey Davon is sitting next to Jimmy!')
+    }
+
+    function buttonClicked() {
+      delayButtonAlert = setTimeout(buttonAlert, 3000);
+    }
+
+    function cancelButtonAlert() {
+      clearTimeout(delayButtonAlert)
+    }
+
+  </script>
+</body>
+
+</html>
