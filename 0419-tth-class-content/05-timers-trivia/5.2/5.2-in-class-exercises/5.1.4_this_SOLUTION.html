@@ -15,7 +15,7 @@
       console.log(this); //1. what will be console logged out? What is *this* in this case?
     };
 
-    outside();
+    outside(); //it will console log the window
 
 
 
@@ -24,6 +24,8 @@
 
     $('#button').on('click', function(){
       console.log(this); //2. what will be console logged out? What is *this* in this case?
+
+      //it will console log the button
     });
 
 
@@ -43,6 +45,7 @@
       lastName: "Smith",
       whoIsBob: function() {
         console.log(this);
+        theChosenOne();
       },
       fullName: function() {
         //put something inside of here so that this works
@@ -52,12 +55,12 @@
 
     //3. what will the console log output if this function gets called:
 
-    bob.whoIsBob();
+    bob.whoIsBob(); // it will console bob, the object
 
 
     //4. fill in the code inside the fullName function above so that the below code console.logs out Bob's full name using the firstName and lastName properties
 
-    bob.fullName();
+    bob.fullName(); // it will console Bob Smith to the screen
 
 
 
@@ -70,14 +73,26 @@
 
 
     //5. Fill in the code below to make the theChosenOne function log "Keanu Reeves".
-    
+
+    //put code here
+    var firstName = 'Keanu';
+    //and put code here
+    var lastName = 'Reeves';
+
+    //window.firstName is Keanu
+    //window.lastName is Reeves
 
     //don't touch any of the code below!!
     var theChosenOne = function () {
+      //this is the window here
+
+      console.log("Inside theChosenOne Function");
+      console.log(this);
       console.log(this.firstName + " " + this.lastName)
     }
 
     theChosenOne();
+
   </script>
 </body>
 </html>

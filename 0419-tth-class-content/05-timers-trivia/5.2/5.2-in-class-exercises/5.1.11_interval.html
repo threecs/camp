@@ -13,7 +13,7 @@
 
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
   <script>
-    var number = 100;
+    var number = 10;
     $('#stop').on('click', stop);
     $('#resume').on('click', run);
 
@@ -24,7 +24,7 @@
       number--;
       $('#show-number').html('<h2>' + number + '</h2>');
       if (number === 0){
-        stop();
+        //stop();
         alert('Time Up!')
       }
     }
