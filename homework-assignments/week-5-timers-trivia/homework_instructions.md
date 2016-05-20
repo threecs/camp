@@ -8,8 +8,8 @@
 * You will use JavaScript for the logic of the game and jQuery to manipulate the HTML of the game.
 
 * You will watch the demo videos to see how the game works.
-  * basic-trivia-demo.mov
-  * advanced-trivia-demo.mov
+  * [basic-trivia-demo.mov](basic-trivia-demo.mov)
+  * [advanced-trivia-demo.mov](advanced-trivia-demo.mov)
 
 ### Remember
 
@@ -46,4 +46,4 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 * Styling and theme are completely up to you. Get Creative!
 
 # Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
+The Coding Boot Camp at UT Austin (C) 2016. All Rights Reserved.
