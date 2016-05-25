@@ -1,0 +1,141 @@
+Today we will begin to learn how to begin the process of solving a programming problem.  Some of you may want to jump right into a text editor and get started writing code /I LIKE YOUR SPIRIT - IT CAN BE FUNDEMENTALLY EMPOWERING TO WRITE YOUR FIRST PROGRAM/ but there are many techniques that we can use, before writing a single line of code, that will improve your own workflow and code no matter what language you are using.  By spending some time planning out your code using techniques like sketching in pencil and paper, building a model or running experiments. One of these techniques is called psudocode.  While psudocode is often written out as human language, graphical alternatives like flowcharts, drakon-charts and UML (unified modeling language) are also useful. 
+
+The idea behind psudocode is to create an informal and high-level description of the input, action or function and intented output of our end product.  Psudocode then should represent your algorithym but be written in plain english designed for human reading vs machine reading.  Psudocode is generally not compileble.  
+
+LETS BETTER UNDERSTAND: LETS TAKE A SECOND TO THINK OF THE WORLD IN TERMS OF PROGRAMMING 
+
+Psudocode could be applied to other procedural based actions like call routing or medical evaluation and professions like a judge or procsecuter, IF (robbery + gun) THEN sentence + 5 years.
+
+As far as I know, Psudocode is still one of the first exercies students do when taking intro to programming.  That is part of the reason we are doing this today.  The other reason is that learning how to think of problems, or solutions to problems, in code
+
+VOCAB 
+
+Programming and enginnering in general are about fixing problems and improving processes & products.  Understanding the problem and the solution's requirements is the first step in programming, these are sometimes referred to as Business Requirements.
+
+Much like the word problems we all fondly remember from school, the problem and requirements must be extracted from a general problem, product specification or end user interviews.  THIS STEP CAN BE HALF THE BATTLE BUT IS ESSENTIAL FOR A PROGRAMMER SHOULD NEVER ASSUME.   
+
+Write a program that:
+Counts through out a list of numbers from 1 to 100.  If the number is divisable by 3 write Fizz and if the number is divisable by 5 write the word Buzz, but if the number is divisable by 3 and 5 write FizzBuzz.  If the number was not divisable then write out the number. 
+
+CONTROL FLOW: how the computer reads the code and intreperts control structure.
+
+STATEMENT:
+In programming the smallest standalone element that expresses an action to be carried out is a STATEMENT.
+
+//
+Statement1;
+//
+
+SEQUENCE:
+For the most part computers execute code from the beginning working their way down to the end and left to right, this is the basic assumtion of all algorithm design.  The order of the STATEMENTS in programming is called SEQUENCE.
+
+//
+Statement1;
+Statement2;
+Statement3;
+//
+
+Statements and sequence alone provide the historical base for programming before the creation of more advanced Classical Structured Programming.   
+
+VARIABLES/DECLARATION/INPUT&OUTPUT--data declarations rarely appear in pseudocode.  
+
+Data in can come from various sources like variable declared in the code or by user input.  
+
+
+DECLARATION:
+
+//
+NUMBER
+INT NUMBER;
+INT NUMBER = 0;
+//
+
+INPUT:
+//
+GET NUMBER;
+//
+
+OUTPUT:
+//
+PRINT NUMBER;
+//
+
+SELECTION:
+When a procedure reaches a choice this is called SELECTION.
+
+?ASK FOR EXAMPLES OF PLAIN LANGUAGE SELECTION
+
+//
+IF (Statement1 > Statement2)
+	THEN Statement2;
+	ELSE Statement3;
+ENDIF;
+//
+
+ITERATION:
+When a program needs to do something until a condition occurs this is called ITERATION.  These are commonly known as loops.
+
+?AKS FOR PLAIN LANGUAGE ITERATION
+
+//
+WHILE (Statement1 >= Statement2)
+	DO Statement2 + 1;
+ENDWHILE;
+
+Loops are powerful as they reduce nested selection statement.  
+    
+
+Pseudocode:
+
+// VARIABLE // GET AN empty NUMBER // OBHECT ORIENTED
+REPEAT COUNT (1 to 100)
+	IF the NUMBER is divisible by 3 AND 5
+		PRINT FizzBuzz;
+	ELSE
+	IF the NUMBER is divisible by 3
+		PRINT Fizz;
+	ELSE
+	IF the number is divisible by 5
+		PRINT Buzz;
+	ELSE
+		PRINT NUMBER;
+END
+
+Discuss Control Flow of the above program:
+
+Discuss Object Oriented VS Procedural
+
+The control flow and function of OO programming is distributed and more difficult to wrap your head around.  
+
+Readable Javascript:
+
+for (var i = 1; i <= 100; i++) {
+	var isDividibleByThree = i % 3 === 0;
+	var isDivisibleByFive = i % 5 === 0;
+
+	if (isDividibleByThree && isDivisibleByFive) {
+		console.log('FizzBuzz');
+	}
+	else if (isDividibleByThree) {
+		console.log('Fizz');
+	}
+	else if (isDivisibleByFive) {
+		console.log('Buzz');
+	}
+	else {
+		console.log(i);
+	}
+}
+
+Improved Javascript:
+
+for (var i = 1; i <= 100; i++) {
+  var f = i % 3 == 0, b = i % 5 == 0;
+  console.log(f ? b ? "FizzBuzz" : "Fizz" : b ? "Buzz" : i);
+}  
+
+
+
+
+
+ 
