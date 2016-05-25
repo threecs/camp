@@ -23,7 +23,6 @@ Written permission must be obtained to miss class or it's considered one of your
 
 You must give a full effort on every group and individual project.
 
-
 -----------------------------------------
 ## Important Links And Notes
 
@@ -52,9 +51,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Intro to jQuery	|	4.1	|	Mon<br>May 09, 2016	|	Tue<br>May 10, 2016	|	               [Jim's Class](https://plus.google.com/events/cgke5k3lihekere3tnb1pm42ql4)<br>[Ashley Lowery - Guest Instructor](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8badc9ea-449b-477c-a2fa-6bf501eef68c)<br>[HW 3 Help](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38da4628-3ca2-4eb8-af1d-0e573fadc6f9)|
 |	JavaScript Scope + jQuery Continued	|	4.2	|	Wed<br>May 11, 2016	|	Thu<br>May 12, 2016	|	[Jim's Class](https://plus.google.com/events/c5qtvir9q7l2me7k8eq0mchhln8)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33ced706-7f9e-44d5-a957-36767cd52aa8)               	|
 |	Using Arrays & Objects With jQuery	|	4.3	|	Sat<br>May 14, 2016	|	Sat<br>May 14, 2016	|	               	[JQuery Calculator](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2908758-cf27-4743-9b13-28d36e5764c2)<br>[Help.com Talk](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4992768-d52f-4bb7-9297-3fe4a1626949)|
-|	Review + Timers	|	5.1	|	Mon<br>May 16, 2016	|	Tue<br>May 17, 2016	|	               	|
+|	Review + Timers	|	5.1	|	Mon<br>May 16, 2016	|	Tue<br>May 17, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f89f0f0-4ffa-4f5d-92fe-431b4d4fded9)|
 |	Interview Question Blitz	|		|	Wed<br>May 18, 2016	|	Thu<br>May 19, 2016	|	               	|
-|	JSON APIs AJAX	|	6.1	|	Sat<br>May 21, 2016	|	Sat<br>May 21, 2016	|	               	|
+|	JSON APIs AJAX	|	6.1	|	Sat<br>May 21, 2016	|	Sat<br>May 21, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c45dcdb1-1aba-4503-9a4e-55c7dbf29a14)|
 |	AJAX Continued	|	6.2	|	Mon<br>May 23, 2016	|	Tue<br>May 24, 2016	|	               	|
 |	AJAX Continued	|	6.3	|	Wed<br>May 25, 2016	|	Thu<br>May 26, 2016	|	               	|
 |	Client Side Storage with Local Storage	|	7.1	|	Sat<br>May 28, 2016	|	Sat<br>May 28, 2016	|	               	|
