@@ -54,7 +54,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Review + Timers	|	5.1	|	Mon<br>May 16, 2016	|	Tue<br>May 17, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f89f0f0-4ffa-4f5d-92fe-431b4d4fded9)|
 |	Interview Question Blitz	|		|	Wed<br>May 18, 2016	|	Thu<br>May 19, 2016	|	               	|
 |	JSON APIs AJAX	|	6.1	|	Sat<br>May 21, 2016	|	Sat<br>May 21, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c45dcdb1-1aba-4503-9a4e-55c7dbf29a14)|
-|	AJAX Continued	|	6.2	|	Mon<br>May 23, 2016	|	Tue<br>May 24, 2016	|	               	|
+|	AJAX Continued	|	6.2	|	Mon<br>May 23, 2016	|	Tue<br>May 24, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c77d9018-76b3-436d-baa7-866e0cf60eda)|
 |	AJAX Continued	|	6.3	|	Wed<br>May 25, 2016	|	Thu<br>May 26, 2016	|	               	|
 |	Client Side Storage with Local Storage	|	7.1	|	Sat<br>May 28, 2016	|	Sat<br>May 28, 2016	|	               	|
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>May 30, 2016	|	Tue<br>May 31, 2016	|	               	|
