@@ -51,14 +51,14 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Intro to jQuery	|	4.1	|	Mon<br>May 09, 2016	|	Tue<br>May 10, 2016	|	               [Jim's Class](https://plus.google.com/events/cgke5k3lihekere3tnb1pm42ql4)<br>[Ashley Lowery - Guest Instructor](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8badc9ea-449b-477c-a2fa-6bf501eef68c)<br>[HW 3 Help](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38da4628-3ca2-4eb8-af1d-0e573fadc6f9)|
 |	JavaScript Scope + jQuery Continued	|	4.2	|	Wed<br>May 11, 2016	|	Thu<br>May 12, 2016	|	[Jim's Class](https://plus.google.com/events/c5qtvir9q7l2me7k8eq0mchhln8)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33ced706-7f9e-44d5-a957-36767cd52aa8)               	|
 |	Using Arrays & Objects With jQuery	|	4.3	|	Sat<br>May 14, 2016	|	Sat<br>May 14, 2016	|	               	[JQuery Calculator](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c2908758-cf27-4743-9b13-28d36e5764c2)<br>[Help.com Talk](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4992768-d52f-4bb7-9297-3fe4a1626949)|
-|	Review + Timers	|	5.1	|	Mon<br>May 16, 2016	|	Tue<br>May 17, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f89f0f0-4ffa-4f5d-92fe-431b4d4fded9)|
-|	Interview Question Blitz	|		|	Wed<br>May 18, 2016	|	Thu<br>May 19, 2016	|	               	|
-|	JSON APIs AJAX	|	6.1	|	Sat<br>May 21, 2016	|	Sat<br>May 21, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c45dcdb1-1aba-4503-9a4e-55c7dbf29a14)|
-|	AJAX Continued	|	6.2	|	Mon<br>May 23, 2016	|	Tue<br>May 24, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c77d9018-76b3-436d-baa7-866e0cf60eda)|
-|	AJAX Continued	|	6.3	|	Wed<br>May 25, 2016	|	Thu<br>May 26, 2016	|	               	[DrillingInfo Talk with CTO Mike Couvillion](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66750aed-ac4b-4c68-9138-b7571dffc6a7)<br>[Joint Session](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c162c8bd-700d-40bd-9777-326379f57b8e)|
-|	Client Side Storage with Local Storage	|	7.1	|	Sat<br>May 28, 2016	|	Sat<br>May 28, 2016	|	               	|
+|	Review + Timers	|	5.1<br>5.2	|	Mon<br>May 16, 2016	|	Tue<br>May 17, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f89f0f0-4ffa-4f5d-92fe-431b4d4fded9)|
+|	Interview Question Blitz	|		|	Sat<br>May 21, 2016	|	Sat<br>May 21, 2016	|	               	|
+|	JSON APIs AJAX	|	6.1	|	Mon<br>May 23, 2016	|	Tue<br>May 24, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c45dcdb1-1aba-4503-9a4e-55c7dbf29a14)|
+|	AJAX Continued	|	6.2	|	Wed<br>May 25, 2016	|	Thu<br>May 26, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c77d9018-76b3-436d-baa7-866e0cf60eda)|
+|	AJAX Continued	|	6.3	|	Sat<br>May 28, 2016	|	Sat<br>May 28, 2016	|	               	[DrillingInfo Talk with CTO Mike Couvillion](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66750aed-ac4b-4c68-9138-b7571dffc6a7)<br>[Joint Session](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c162c8bd-700d-40bd-9777-326379f57b8e)|
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>May 30, 2016	|	Tue<br>May 31, 2016	|	               	|
-|	Firebase	|	7.2	|	Wed<br>Jun 01, 2016	|	Thu<br>Jun 02, 2016	|	               	|
+|	Client Side Storage with Local Storage	|	7.1	|	Wed<br>June 01, 2016	|	Thu<br>June 02, 2016	|	               	|
+|	Firebase	|	7.2	|	Sat<br>Jun 04, 2016	|	Sat<br>Jun 04, 2016	|	               	|
 |	Firebase Continued<br>+ Groups For Projects Announced	|	7.3	|	Sat<br>Jun 04, 2016	|	Sat<br>Jun 04, 2016	|	               	|
 |	Project Mgmt <br> + Review of How Projects Will Be Run	|	8.1	|	Mon<br>Jun 06, 2016	|	Tue<br>Jun 07, 2016	|	               	|
 |	Project Work	|	8.2	|	Wed<br>Jun 08, 2016	|	Thu<br>Jun 09, 2016	|	               	|
