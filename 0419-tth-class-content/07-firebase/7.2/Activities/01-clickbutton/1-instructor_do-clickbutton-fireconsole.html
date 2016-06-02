@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Click Button with Firebase!</title>
+
+	<!-- ****** FireBase Src Link ****** -->
+	<script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
+</head>
+<body>
+
+	<!-- Text with spanID that gets filled with content -->
+	<p>After clicking, go to the firebase database to see the click counter go up.</p>
+
+	<p>
+		While clicking, put this html file to the left, and show the firebase database on the right to show how firebase is real time!
+	</p>
+
+	<!-- Button -->
+	<button id="clickButton">Click Me!!!!</button>
+
+
+	<!-- JQuery -->
+	<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+
+
+<!-- ================================================================================== -->
+
+	<script>
+
+	// Variables
+	// ================================================================================
+
+	// ****** Created Reference to Firebase Database ******
+	var clickData = new Firebase("https://rcb-clickbutton.firebaseio.com/"); // <----------------------- CHANGE THIS CHANGE THIS CHANGE THIS!!!!!
+	var clickCounter = 0;
+
+	// Functions
+	// ================================================================================
+
+	// On Click
+	$("#clickButton").on("click", function() {
+
+		// Add to clickCounter
+		clickCounter++;
+
+		// ***** Store Click Data to Firebase in a JSON property called clickCount *****
+		// ***** Note how we are using the Firebase .set() method ****
+		clickData.set({
+			clickCount: clickCounter
+		});
+
+		// Now! go to https://rcb-clickbutton.firebaseio.com/ to see the impact to the DB
+	})
+
+	</script>
+
+</body>
+</html>

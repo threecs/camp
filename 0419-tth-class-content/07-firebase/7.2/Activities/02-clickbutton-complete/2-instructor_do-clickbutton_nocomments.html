@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Click Button with Firebase!</title>
+
+	<!--  -->
+	<script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
+</head>
+<body>
+
+	<h1>Ouch! You've clicked me <span id="clickValue"></span> times!</h1>
+	<button id="clickButton">Click Me!!!!</button>
+
+	<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+	<script>
+
+	// 
+	var clickData = new Firebase("https://rcb-clickbutton.firebaseio.com/");
+	var clickCounter = 0;	
+	
+	// 
+	$("#clickButton").on("click", function() {
+
+		// 
+		clickCounter++;
+
+		// 
+		clickData.set({
+			clickCount: clickCounter
+		});
+	})
+
+	// 
+	clickData.on("value", function(snapshot) {
+
+		// 
+		console.log(snapshot.val());
+
+		// 
+		$("#clickValue").html(snapshot.val().clickCount);
+
+		// 
+		clickCounter = snapshot.val().clickCount;
+
+	// 
+	}, function (errorObject) {
+
+		// 
+	  	console.log("The read failed: " + errorObject.code);
+	
+	});
+
+	</script>
+
+</body>
+</html>
