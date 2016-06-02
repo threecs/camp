@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+
+
+	function isPangram (word) {
+		if (word.length < 26) return false;
+
+		var letters = {};
+		var wordToArray = word.split('');
+
+		for (var x = 0; x < wordToArray.length; x++) {
+			letter = wordToArray[x].toLowerCase();
+			if (RegExp(/[a-z]/g).test(letter) && letters[letter] === undefined) {
+				letters[letter] = true;
+			}
+		}
+
+		return Object.keys(letters).length === 26;
+	}
+</script>
+</body>
+</html>
