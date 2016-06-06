@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>More Properties!</title>
+
+	<!-- Firebase Reference -->
+	<script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
+</head>
+<body>
+
+	<!-- An utterly ugly form! -->
+    <label for="text">Name:</label>
+    <input type="text" class="form-control" id="nameinput">
+
+    <label for="text">Age:</label>
+    <input type="text" class="form-control" id="ageinput">
+
+    <label for="text">Phone:</label>
+    <input type="text" class="form-control" id="phoneinput">
+
+	<!-- Submit Button -->
+	<button id="clickButton" type="submit">Submit</button>
+
+	<hr>
+
+	<!-- Displayed Data -->
+	<div id="displayedData"></div>
+
+	<!-- ====================================================================== -->
+
+	<!-- Javascript -->
+	<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+
+	<script>
+		
+	// Creates Firebase link
+	var dataRef = new Firebase("https://rcb-moreproperties.firebaseio.com/"); // < ------------ CHANGE ME CHANGE ME CHANGE ME CHANGE ME
+
+	// Initial Variables (SET the first set IN FIREBASE FIRST)
+	// Note remember to create these same variables in Firebase! 
+	var name = "";
+	var age = "";
+	var phone = "";
+
+
+	// Click Button changes what is stored in firebase
+	$("#clickButton").on("click", function(){
+
+		// Get inputs
+		name = $('#nameinput').val().trim(); 
+		age = $('#ageinput').val().trim(); 
+		phone = $('#phoneinput').val().trim(); 
+
+		// Change what is saved in firebase
+		dataRef.set({
+			name: name,
+			age: age,
+			phone: phone
+		});
+
+		return false;
+	})
+
+
+	// Firebase is always watching for changes to the data. 
+	// When changes occurs it will print them to console and html
+	dataRef.on("value", function(snapshot) {
+
+		// Print the initial data to the console.
+		console.log(snapshot.val());
+
+		// Log the value of the various properties
+		console.log(snapshot.val().name);
+		console.log(snapshot.val().age);
+		console.log(snapshot.val().phone);
+
+		// Change the HTML
+		$("#displayedData").html(snapshot.val().name + " | " + snapshot.val().age + " | " + snapshot.val().phone);
+
+	// If any errors are experienced, log them to console. 
+	}, function (errorObject) {
+
+	  	console.log("The read failed: " + errorObject.code);
+
+	});
+
+	</script>
+</body>
+</html>

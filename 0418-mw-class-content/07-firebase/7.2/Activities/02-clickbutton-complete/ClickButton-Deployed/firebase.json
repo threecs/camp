@@ -1,0 +1,9 @@
+{
+  "firebase": "rcb-clickbutton",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
