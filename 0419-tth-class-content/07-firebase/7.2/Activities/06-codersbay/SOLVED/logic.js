@@ -13,6 +13,7 @@ var highBidder = initialBidder;
 //
 // At the initial load, get a snapshot of the current data.
 bidderData.on("value", function(snapshot) {
+	console.log('Snapshot: ', snapshot.child('highBidder').exists());
 
 	// If Firebase has a highPrice and highBidder stored (first case)
 	if (snapshot.child("highBidder").exists() && snapshot.child("highPrice").exists()) {
