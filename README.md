@@ -61,7 +61,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Firebase Continued<br>+ Groups For Projects Announced	|	7.3	|	Sat<br>Jun 04, 2016	|	Sat<br>Jun 04, 2016	|	               	|
 |	Project Mgmt <br> + Review of How Projects Will Be Run	|	8.1	|	Mon<br>Jun 06, 2016	|	Tue<br>Jun 07, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c106fd03-fecf-4cf6-b894-6bd93e25d0b4)|
 |	Project Work	|	8.2	|	Wed<br>Jun 08, 2016	|	Thu<br>Jun 09, 2016	|	               	|
-|	How to Demo<br>+ Project Work	|	8.3	|	Sat<br>Jun 11, 2016	|	Sat<br>Jun 11, 2016	|	               	|
+|	How to Demo<br>+ Project Work	|	8.3	|	Sat<br>Jun 11, 2016	|	Sat<br>Jun 11, 2016	|	[1. Github Deep Dive](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4a9c383-1ebe-4083-96ab-5fa2b3c6d310)<br/>[2. Ducky Introduction](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccf3e146-b654-463d-a5a6-2001ad77e44b)|
 |	Debugging Legacy Code<br>+ Interview Questions	|	9.1	|	Mon<br>Jun 13, 2016	|	Tue<br>Jun 14, 2016	|	               	|
 |	Problem Solving	|	9.2	|	Wed<br>Jun 15, 2016	|	Thu<br>Jun 16, 2016	|	               	|
 |	Internal Demo Day + Project Feedback	|	9.3	|	Sat<br>Jun 18, 2016	|	Sat<br>Jun 18, 2016	|	               	|
