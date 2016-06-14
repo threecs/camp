@@ -25,6 +25,23 @@
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 
 <script>
+for(var i = 0; i < localStorage.length; i++)
+{
+	var todoItem = $('<p>');
+	todoItem.attr('id', 'item-' + i);
+	todoItem.append(localStorage.getItem('item-' + i));
+
+	var todoClose = $("<button>");
+	todoClose.attr("data-todo", todoCount);
+	todoClose.addClass("checkbox");
+	todoClose.append("X");
+
+	// Append the button to the todoitem
+	todoItem = todoItem.prepend(todoClose);
+
+	// Add the button and todo item to the todos div
+	$("#todos").append(todoItem);
+}
 
 // Create an initial todoCount variable
 var todoCount = 0;
@@ -41,6 +58,7 @@ $("#addTodo").on("click", function(){
 	var todoItem = $('<p>');
 	todoItem.attr("id", "item-" + todoCount);
 	todoItem.append(" " + todoTask);
+	localStorage.setItem('item-' + todoCount, " " + todoTask);
 
 	// Create a button with unique identifers based on what number it is in the list. Again use jquery to do this.
 	// Give your button a data attribute called data-todo and a class called "checkbox".

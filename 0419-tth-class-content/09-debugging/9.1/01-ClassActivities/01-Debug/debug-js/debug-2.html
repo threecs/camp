@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+<!-- 
+	1. There are two things wrong with this code. Please fix it. At the end, the page should show:
+		Steve Prefontaine said "A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more."
+
+	2. Instead of JavaScript, refactor the below code to use jQuery
+
+-->
+<head>
+	<title></title>
+</head>
+<body>
+
+	<div>Come at me bro</div>
+
+	<script type="text/javascript">
+		window.onload = function(){
+			var runner = {
+				runnerName: 'Steve Prefontaine',
+				runnerSpeak: function(){
+					var name = runnerName;
+
+					var quote = "\"A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more.\""
+
+					return name + " said " + quote;
+				}
+			}
+
+			var div = document.querySelector('div');
+			debugger;
+			div.innerText = runner.runnerSpeak;
+
+		}
+	</script>
+</body>
+</html>
+
