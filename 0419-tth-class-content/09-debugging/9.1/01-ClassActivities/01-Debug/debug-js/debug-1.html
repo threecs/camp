@@ -12,8 +12,18 @@
 <body>
 
 	<button>Come at me bro</button>
-	
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript">
+var dog = {
+		dogName: 'fido',
+		dogNoise: function(){
+			alert('woof woof');
+			}
+		}
+$(document).ready(function(){
+	$('button').on('click',dog.dogNoise);
+});
+/*
 	window.onload = function(){
 		var button = document.querySelector('button')
 
@@ -24,10 +34,11 @@
 			}
 		}
 
-		button.addEventListener('click', dog.dogNoise());
+		button.addEventListener('click', dog.dogNoise);
 
 
 	}
+	*/
 </script>
 
 </body>

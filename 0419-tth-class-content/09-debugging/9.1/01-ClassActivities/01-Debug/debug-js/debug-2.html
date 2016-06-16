@@ -13,13 +13,26 @@
 <body>
 
 	<div>Come at me bro</div>
-
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script type="text/javascript">
-		window.onload = function(){
+	$(document).ready(function(){
+		var runner = {
+				runnerName: 'Steve Prefontaine',
+				runnerSpeak: function(){
+					var name = this.runnerName;
+
+					var quote = "\"A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more.\""
+
+					return name + " said " + quote;
+				}
+			}
+			$('div').html(runner.runnerSpeak());
+	});
+		/*window.onload = function(){
 			var runner = {
 				runnerName: 'Steve Prefontaine',
 				runnerSpeak: function(){
-					var name = runnerName;
+					var name = this.runnerName;
 
 					var quote = "\"A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more.\""
 
@@ -29,9 +42,10 @@
 
 			var div = document.querySelector('div');
 			debugger;
-			div.innerText = runner.runnerSpeak;
+			div.innerText = runner.runnerSpeak();
 
 		}
+		*/
 	</script>
 </body>
 </html>
