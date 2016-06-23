@@ -1,0 +1,49 @@
+<!DOCTYPE>
+<html>
+<!-- 
+	// there is no coding here - there is just explaining to your partners
+	
+	1. This is an example of someone going nuts with function encapsulation. We have functions encapsulated by other functions. It runs fine, but is hard to read. Explain step by step as if you're teaching someone who is a novice at javaScript why line 37 is able to access the variables above it. Make sure to explain what javaScript scope is doing. 
+	
+	line 37 looks like this:
+		div.innerHTML = catOne + " and " + catTwo + " make these kinds of noises respectively: " + catNoiseOne + " and " + catNoiseTwo + "." + "<br><br>" + " Sometimes they run really fast on the " + floor + " floor and crash into a wall, but they're fine, because they're " + endingText;
+-->
+<head>
+	<title></title>
+</head>
+<body>
+
+	<div>Come at me bro</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	window.onload = function(){
+		var endingText = 'practically indestructable.';
+
+		var pavansApartment = function(){
+			var floor = 'hardwood';
+
+			var cats = function(){
+				var catOne = 'Meeses';
+				var catTwo = 'Bobbi';
+
+				var noises = function(){
+					var catNoiseOne = "meeewww";
+					var catNoiseTwo = "ranwah ranwah";
+
+					var div = document.querySelector('div');
+
+					div.innerHTML = catOne + " and " + catTwo + " make these kinds of noises respectively: " + catNoiseOne + " and " + catNoiseTwo + "." + "<br><br>" + " Sometimes they run really fast on the " + floor + " floor and crash into a wall, but they're fine, because they're " + endingText;
+
+				}
+
+				noises();
+			}
+
+			cats();
+		}
+
+		pavansApartment();
+	}
+</script>
