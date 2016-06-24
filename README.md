@@ -66,7 +66,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Problem Solving	|	9.2	|	Wed<br>Jun 15, 2016	|	Thu<br>Jun 16, 2016	|	               	|
 |	Internal Demo Day + Project Feedback	|	9.3	|	Sat<br>Jun 18, 2016	|	Sat<br>Jun 18, 2016	|[Jesus Lozano - OnePay](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f43add5-4fb5-4bd3-8740-3bcb3ecfe0d1)<br>[Group Presentations - Raw](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=525cf8ae-d893-4a2b-9251-b4da33eb0088)	               	|
 |	Introducing Node.js	|	10.1	|	Mon<br>Jun 20, 2016	|	Tue<br>Jun 21, 2016	|	[Roger's Class - Josh Madewell Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccd5e3d7-a956-4b49-8b3e-06c047b7f218)               	|
-|	NPM Packages	|	10.2	|	Wed<br>Jun 22, 2016	|	Thu<br>Jun 23, 2016	|	               	|
+|	NPM Packages	|	10.2	|	Wed<br>Jun 22, 2016	|	Thu<br>Jun 23, 2016	|	 [Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34fbd305-5f06-41fa-b792-21f045c71bb2)              	|
 |	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**	|	10.3	|	Sat<br>Jun 25, 2016	|	Sat<br>Jun 25, 2016	|	               	|
 |	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|	               	|
 |	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|	               	|
