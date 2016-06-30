@@ -68,7 +68,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Introducing Node.js	|	10.1	|	Mon<br>Jun 20, 2016	|	Tue<br>Jun 21, 2016	|	[Roger's Class - Josh Madewell Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccd5e3d7-a956-4b49-8b3e-06c047b7f218)               	|
 |	NPM Packages	|	10.2	|	Wed<br>Jun 22, 2016	|	Thu<br>Jun 23, 2016	|	 [Jim's Class](https://plus.google.com/events/cgtc3qu81tlclcv87gjvqq96ldk)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34fbd305-5f06-41fa-b792-21f045c71bb2)              	|
 |	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**	|	10.3	|	Sat<br>Jun 25, 2016	|	Sat<br>Jun 25, 2016	|[Will Cole - Dir of Product @ Stack Overflow](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=200957af-43a3-4942-8f42-e07481a067ee)<br>[Power of Packages](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c9ce4d6-c075-4632-9be4-d9ddd7498792)	               	|
-|	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|	               	|
+|	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d51de831-d8ec-4917-9e69-5f21e4127bdc)	               	|
 |	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|	               	|
 |	Introduction To MySQL	|	12.1	|	Sat<br>Jul 02, 2016	|	Sat<br>Jul 02, 2016	|	               	|
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|	               	|
