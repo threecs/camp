@@ -1,15 +1,8 @@
 # Week 11 Assignment
 
 ### Objectives
-* Create a fun and interactive Hangman game (or Psychic game) that runs in the browser!
-* Dynamically update the HTML with JavaScript.
-* Style various HTML elements with CSS.
-* Push your code to Github.
-* Deploy your code from Github to Heroku.
-
-### Remember
-
-You will be fully capable of doing this homework by the end of Saturday's class.
+* Recreate Hangman using constructors, objects and Node.js
+* Process user input via the command line
 
 ### Instructions
 1. Create a new folder called `Week11-Hangman`
@@ -28,8 +21,7 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 1. Solve it one peice at a time! Break it down into smaller problems that add up to solve the "bigger problem". Step 1 Focus on one part of the smaller problem and get some code working. Step 2 Rinse and repeat.  `console.log` is your friend.
 2. Try your best to deliver a 'working/playable game' by the end of the deadline.
-3. Working game > Prettiness of your game/app. We're focusing on game mechanics and not just the look and feel of your app.
-4. `git commit` often. Turn in anything you have! Don't get an automatic 0!
+3. `git commit` often. Turn in anything you have! Don't get an automatic 0!
 
 # Copyright
-Coding Boot Camp (C) 2015. All Rights Reserved.
+The Coding Boot Camp at UT Austin (C) 2016. All Rights Reserved.
