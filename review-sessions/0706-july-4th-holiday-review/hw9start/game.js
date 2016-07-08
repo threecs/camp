@@ -1,0 +1,1 @@
+exports.wordBank = ['a', 'b'];
