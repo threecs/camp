@@ -64,16 +64,16 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	How to Demo<br>+ Project Work	|	8.3	|	Sat<br>Jun 11, 2016	|	Sat<br>Jun 11, 2016	|	[1. Github Deep Dive](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4a9c383-1ebe-4083-96ab-5fa2b3c6d310)<br/>[2. Ducky Introduction](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccf3e146-b654-463d-a5a6-2001ad77e44b)|
 |	Debugging Legacy Code<br>+ Interview Questions	|	9.1	|	Mon<br>Jun 13, 2016	|	Tue<br>Jun 14, 2016	|	               	|
 |	Problem Solving	|	9.2	|	Wed<br>Jun 15, 2016	|	Thu<br>Jun 16, 2016	|	               	|
-|	Internal Demo Day + Project Feedback	|	9.3	|	Sat<br>Jun 18, 2016	|	Sat<br>Jun 18, 2016	|	               	|
-|	Introducing Node.js	|	10.1	|	Mon<br>Jun 20, 2016	|	Tue<br>Jun 21, 2016	|	               	|
-|	NPM Packages	|	10.2	|	Wed<br>Jun 22, 2016	|	Thu<br>Jun 23, 2016	|	               	|
-|	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**	|	10.3	|	Sat<br>Jun 25, 2016	|	Sat<br>Jun 25, 2016	|	               	|
-|	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|	               	|
-|	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|	               	|
-|	Introduction To MySQL	|	12.1	|	Sat<br>Jul 02, 2016	|	Sat<br>Jul 02, 2016	|	               	|
+|	Internal Demo Day + Project Feedback	|	9.3	|	Sat<br>Jun 18, 2016	|	Sat<br>Jun 18, 2016	|[Jesus Lozano - OnePay](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f43add5-4fb5-4bd3-8740-3bcb3ecfe0d1)<br>[Group Presentations - Raw](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=525cf8ae-d893-4a2b-9251-b4da33eb0088)	               	|
+|	Introducing Node.js	|	10.1	|	Mon<br>Jun 20, 2016	|	Tue<br>Jun 21, 2016	|	[Roger's Class - Josh Madewell Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccd5e3d7-a956-4b49-8b3e-06c047b7f218)               	|
+|	NPM Packages	|	10.2	|	Wed<br>Jun 22, 2016	|	Thu<br>Jun 23, 2016	|	 [Jim's Class](https://plus.google.com/events/cgtc3qu81tlclcv87gjvqq96ldk)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34fbd305-5f06-41fa-b792-21f045c71bb2)              	|
+|	Node Review + Organizing and Debugging Node Code<br>+ **Where Are You? (Assessment)**	|	10.3	|	Sat<br>Jun 25, 2016	|	Sat<br>Jun 25, 2016	|[Will Cole - Dir of Product @ Stack Overflow](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=200957af-43a3-4942-8f42-e07481a067ee)<br>[Power of Packages](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c9ce4d6-c075-4632-9be4-d9ddd7498792)	               	|
+|	Introduction To Constructors	|	11.1	|	Mon<br>Jun 27, 2016	|	Tue<br>Jun 28, 2016	|[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d51de831-d8ec-4917-9e69-5f21e4127bdc)	               	|
+|	Constructors Continued + Prototype	|	11.2	|	Wed<br>Jun 29, 2016	|	Thu<br>Jun 30, 2016	|	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9555f33-897e-4616-ab5d-9daa9c90d5f2)               	|
+|	Callbacks	|	11.3	|	Sat<br>Jul 02, 2016	|	Sat<br>Jul 02, 2016	|	               	[Travis- Conde Nest](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e414c146-70c9-4bd5-9b82-9e31eca4e4b9)<br>[JS Callbacks](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=600d934b-1f47-4e7d-835f-952000b50fbb)|
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|	               	|
-|	       Using MySQL with Node.js        	|	12.2	|	Wed<br>Jul 06, 2016	|	Thu<br>Jul 07, 2016	|	               	|
-|	       Prompt + MySQL + Node.js        	|	12.3	|	Sat<br>Jul 09, 2016	|	Sat<br>Jul 09, 2016	|	               	|
+|	Introduction To MySQL               	|	12.1	|	Wed<br>Jul 06, 2016	|	Thu<br>Jul 07, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de6a5088-0a81-447b-9d33-c7c4bde9b5df)|
+|	       Using MySQL with Node.js / Prompt + MySQL + Node.js        	|	12.2 / 12.3	|	Sat<br>Jul 09, 2016	|	Sat<br>Jul 09, 2016	|	               	|
 |	       Node.js Web Servers     	|	13.1	|	Mon<br>Jul 11, 2016	|	Tue<br>Jul 12, 2016	|	               	|
 |	       Introduction To Express.js And Routing<br>+ Serving HTML The Hard Way   	|	13.2	|	Wed<br>Jul 13, 2016	|	Thu<br>Jul 14, 2016	|	               	|
 |	       Express.js Continued<br>+ Serving HTML Using Public/Index.html<br>+ Forms And C.R.U.D   	|	13.3	|	Sat<br>Jul 16, 2016	|	Sat<br>Jul 16, 2016	|	               	|
