@@ -74,8 +74,8 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	**Review On Tuesday<br>No Class Monday**	|		|	Mon<br>Jul 04, 2016	|	Tue<br>Jul 05, 2016	|	               	|
 |	Introduction To MySQL               	|	12.1	|	Wed<br>Jul 06, 2016	|	Thu<br>Jul 07, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de6a5088-0a81-447b-9d33-c7c4bde9b5df)|
 |	       Using MySQL with Node.js / Prompt + MySQL + Node.js        	|	12.2 / 12.3	|	Sat<br>Jul 09, 2016	|	Sat<br>Jul 09, 2016	|	               	|
-|	       Node.js Web Servers     	|	13.1	|	Mon<br>Jul 11, 2016	|	Tue<br>Jul 12, 2016	|	               	|
-|	       Introduction To Express.js And Routing<br>+ Serving HTML The Hard Way   	|	13.2	|	Wed<br>Jul 13, 2016	|	Thu<br>Jul 14, 2016	|	               	|
+|	       Node.js Web Servers     	|	13.1	|	Mon<br>Jul 11, 2016	|	Tue<br>Jul 12, 2016	|	               	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ecdc2e4-b2b3-42f5-851b-1c6e6b0b5a2b)|
+|	       Introduction To Express.js And Routing<br>+ Serving HTML The Hard Way   	|	13.2	|	Wed<br>Jul 13, 2016	|	Thu<br>Jul 14, 2016	|	               	[Jim's Class](https://plus.google.com/events/cslpp6u45nrltko30sv38o8rb8k)<br>|
 |	       Express.js Continued<br>+ Serving HTML Using Public/Index.html<br>+ Forms And C.R.U.D   	|	13.3	|	Sat<br>Jul 16, 2016	|	Sat<br>Jul 16, 2016	|	               	|
 |	       Express.js Templating With Handlebars.js        	|	14.1	|	Mon<br>Jul 18, 2016	|	Tue<br>Jul 19, 2016	|	               	|
 |	       Express.js Templating With Handlebars.js Continued      	|	14.2	|	Wed<br>Jul 20, 2016	|	Thu<br>Jul 21, 2016	|	               	|
