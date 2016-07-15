@@ -10,7 +10,20 @@
 
 ### Submission Requirements:
 
-* When submitting this homework, use the normal GitHub and Heroku process. 
+* When submitting this homework, commit your code to GitHub and submit the github URL to Bootcampspot.
+
+- Have an export of your SQL table WITH the data and structure as a `.sql` file.
+- How to Export in Sequel Pro
+	- Connect to Database
+	- Select desired Database
+	- File
+	- Export 
+	- SQL, (check S, C and D), S for structure, C for content and D for Data
+	- ![Sequel Pro Export](http://www.backuphowto.info/files/articles/2012/02/sequel-pro-mysql-backup.png)
+- How to Export in HeidiSQL
+	- Connect to Database
+	- Select desired Database
+	- ![HeidiSQL Export](http://www.heidisql.com/images/screenshots/export_sql.png)
 
 * However, be sure to include screenshots and/or video of the working code in your README.md file of the GitHub Repo. (Research how to use README.md files if you are confused). 
 
