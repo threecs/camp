@@ -7,7 +7,7 @@ In this project, you and your team will be in charge of researching, architectin
 ### Requirements
 *  Must use a <u>Node and Express Web Server</u>
 
-*  Must be backed by a <u>MySQL Database with Sequelize ORM</u>
+*  Must be backed by a <u>MySQL Database with Sequelize ORM (or the ORM we created in class)</u>
 
 *  Must have <u>*both* GET and POST routes</u> for retrieving and adding new data
 
