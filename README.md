@@ -85,7 +85,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       ORM With Express.js<br>+ Migrations With Express.js<br>+ Templating Project Definitions 	|	15.3	|	Sat<br>Jul 30, 2016	|	Sat<br>Jul 30, 2016	|[Rogue Roger Ep. 1 of ???](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b0eca3d-3cae-43ec-82d9-7c7d786fb268)	               	|
 |	       Project Work    	|	16.1	|	Mon<br>Aug 01, 2016	|	Tue<br>Aug 02, 2016	|	               	|
 |	       Writing Tests <br>+ Project Work        	|	16.2	|	Wed<br>Aug 03, 2016	|	Thu<br>Aug 04, 2016	|	               	|
-|	       Writing Tests <br>+ Project Work        	|	16.3	|	Sat<br>Aug 06, 2016	|	Sat<br>Aug 06, 2016	|	               	|
+|	       Writing Tests <br>+ Project Work        	|	16.3	|	Sat<br>Aug 06, 2016	|	Sat<br>Aug 06, 2016	|[Indeed.com - David Tulig](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8b1a13c-fc0c-4a61-b496-0db6648d596d)	               	|
 |	       SEO (Search Engine Optimization)<br>+ Project Work      	|	17.1	|	Mon<br>Aug 08, 2016	|	Tue<br>Aug 09, 2016	|	               	|
 |	       SEO (Search Engine Optimization)<br>+ Project Work      	|	17.2	|	Wed<br>Aug 10, 2016	|	Thu<br>Aug 11, 2016	|	               	|
 |	**Internal Demo Day**<br>+ **Distribute Study Guide for Week 19**	|	17.3	|	Sat<br>Aug 13, 2016	|	Sat<br>Aug 13, 2016	|	               	|
