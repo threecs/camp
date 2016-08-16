@@ -88,7 +88,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       Writing Tests <br>+ Project Work        	|	16.3	|	Sat<br>Aug 06, 2016	|	Sat<br>Aug 06, 2016	|[Indeed.com - David Tulig](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8b1a13c-fc0c-4a61-b496-0db6648d596d)	               	|
 |	       SEO (Search Engine Optimization)<br>+ Project Work      	|	17.1	|	Mon<br>Aug 08, 2016	|	Tue<br>Aug 09, 2016	|	               	|
 |	       SEO (Search Engine Optimization)<br>+ Project Work      	|	17.2	|	Wed<br>Aug 10, 2016	|	Thu<br>Aug 11, 2016	|	               	|
-|	**Internal Demo Day**<br>+ **Distribute Study Guide for Week 19**	|	17.3	|	Sat<br>Aug 13, 2016	|	Sat<br>Aug 13, 2016	|	               	|
+|	**Internal Demo Day**<br>+ **Distribute Study Guide for Week 19**	|	17.3	|	Sat<br>Aug 13, 2016	|	Sat<br>Aug 13, 2016	|[Project 2 Presentations](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc76ba4f-7d39-4703-98a0-0ad298d814be)	               	|
 |	       Interview Question Blitz        	|		|	Mon<br>Aug 15, 2016	|	Tue<br>Aug 16, 2016	|	               	|
 |	       Introduction to MongoDB 	|	18.1	|	Wed<br>Aug 17, 2016	|	Thu<br>Aug 18, 2016	|	               	|
 |	       MongoDB Continued       	|	18.2	|	Sat<br>Aug 20, 2016	|	Sat<br>Aug 20, 2016	|	               	|
