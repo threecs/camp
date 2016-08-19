@@ -1,0 +1,7 @@
+Note for Instructor: 
+
+I copied the files from 18.1.9 to this folder, as they are all valid solutions to this exercise. 
+
+This way you'll have the files for showing students the 18.1.9 exercise, and the 18.1.10 solutions, whichever is apropos.
+
+-Steve

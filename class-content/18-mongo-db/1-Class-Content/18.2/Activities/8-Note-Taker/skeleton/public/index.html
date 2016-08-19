@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+  <style media="screen">
+    .deleter{
+      text-align:right;
+    }
+    h1 {
+      font-size: 40px;
+      color:white;
+    }
+    body{
+      text-align: center;
+      background-color: cornflowerblue;
+    }
+    .deleter{
+      color: red;
+      margin-left: 20px;
+    }
+    input{
+      width:400px;
+      margin:0 auto;
+      font-size: 42px;
+      height:50px;
+      background-color: antiquewhite;
+    }
+    textarea{
+      width:400px;
+      margin:0 auto;
+      height:400px;
+      font-size: 24px;
+      background-color: antiquewhite;
+
+    }
+    #dataentry{
+      cursor: pointer;
+      font-size: 24px;
+    }
+    #results{
+      background-color: antiquewhite;
+      width:400px;
+      overflow: auto;
+      margin: 0 auto;
+      height:200px;
+    }
+    #actionbutton{
+      display: inline-block;
+    }
+    #buttons{
+      margin:20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mongo Note App</h1>
+  <div id="userinput">
+      <p>Title</p>
+      <input type="text" id="title" />
+    <br>
+      <p>Note</p>
+      <textarea id="note"></textarea>
+    <div id="buttons">
+      <div id="actionbutton">
+        <button id="makenew">Submit</button>
+      </div>
+      <button id="clearall">Delete All Notes</button>
+    </div>
+  </div>
+
+  <div id="results"></div>
+  <script src="app.js"></script>
+</body>
+</html>
