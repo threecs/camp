@@ -92,10 +92,10 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       Introduction to MongoDB  | 18.1		|	Mon<br>Aug 15, 2016	|	Tue<br>Aug 16, 2016	|[Jim's Class](https://www.youtube.com/watch?v=wUAu-sda3b0)<br>	               	|
 |	       MongoDB Continued 	|	18.2	|	Wed<br>Aug 17, 2016	|	Thu<br>Aug 18, 2016	|[Jim's Class](https://www.youtube.com/watch?v=Pff_cEIXrgA)<br>[Roger's Class - Jedd Fenner Guest Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b7bbc3c-bee3-4e54-8b5c-2a2fc889e10b)	               	|
 |	       MongoDB and Mongoose (ORM)       	|	18.3	|	Sat<br>Aug 20, 2016	|	Sat<br>Aug 20, 2016	|[Lydia - data.world](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf8066ef-93ee-4a31-84c9-df17cbcdec85)<br>[Eat a Mongoose Pt-1](https://www.youtube.com/watch?v=a5FujWGZ7JY)<br>[Eat a Mongoose Pt-2](https://www.youtube.com/watch?v=NatXddxy5LQ)	               	|
-|	       JEMN Stack Development<br>(jQuery Express MongoDB Node) 	|	18.3	|	Mon<br>Aug 22, 2016	|	Tue<br>Aug 23, 2016	|	               	|
-|	       React.js        	|	19.1	|	Wed<br>Aug 24, 2016	|	Thu<br>Aug 25, 2016	|	               	|
-|	       React.js Continued      	|	19.2	|	Sat<br>Aug 27, 2016	|	Sat<br>Aug 27, 2016	|	               	|
-|	       REMN Stack Development<br>(React Express MongoDB Node)  	|	19.3	|	Mon<br>Aug 29, 2016	|	Tue<br>Aug 30, 2016	|	               	|
+|	       Introduction to React.js 	|	19.1	|	Mon<br>Aug 22, 2016	|	Tue<br>Aug 23, 2016	|	               	|
+|	       React (Again)!       	|	19.2	|	Wed<br>Aug 24, 2016	|	Thu<br>Aug 25, 2016	|	               	|
+|	       React & Feel the MERN      	|	19.3	|	Sat<br>Aug 27, 2016	|	Sat<br>Aug 27, 2016	|	               	|
+|	       MERN Stack Development<br>(MongoDB Express React Node)  	|	19.3	|	Mon<br>Aug 29, 2016	|	Tue<br>Aug 30, 2016	|	               	|
 |	       Laravel 	|	20.1	|	Wed<br>Aug 31, 2016	|	Thu<br>Sep 01, 2016	|	               	|
 |	       Laravel 	|	20.2	|	Sat<br>Sep 03, 2016	|	Sat<br>Sep 03, 2016	|	               	|
 |	       **Career Event On Tuesday<br>No Class Monday**  	|		|	Mon<br>Sep 05, 2016	|	Tue<br>Sep 06, 2016	|	               	|
