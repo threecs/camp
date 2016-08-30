@@ -28,7 +28,7 @@ In this activity, you'll create a new React-based rendition of the New York Time
 	      url: 'http://query.nytimes.com/gst/abstract.html?res=9A0DE5D8173FEF34BC4052DFB166838F669EDE' 
 	    }
 	    ```
-5. Create a Node/Express/Handlebars/MongoDB/ReactJS app called `nytreact`. This will be a recreation of the [NYT Articles Search](http://nytarticle-search.herokuapp.com/) exercise application we built back in [Week 6](/02-lesson-plans/06-ajax/2-Key-Activities/06-NYTSearch). Running this application will:
+5. Create a Node/Express/MongoDB/ReactJS app called `nytreact`. This will be a recreation of the [NYT Articles Search](http://nytarticle-search.herokuapp.com/) exercise application we built back in [Week 6](/02-lesson-plans/06-ajax/2-Key-Activities/06-NYTSearch). Running this application will:
 
 	* Create a Bootstrap layout similar to that displayed in [HW_Assignment.png](HW_Assignment.png). This should be a SPA (Single Page Application) that uses [`react-router`]( https://github.com/reactjs/react-router) to navigate, hide and show your React components without changing the route within Express.
 		* If you want to try out another CSS framework, feel free to use an alternative to Bootstrap.
