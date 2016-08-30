@@ -95,9 +95,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       Introduction to React.js 	|	19.1	|	Mon<br>Aug 22, 2016	|	Tue<br>Aug 23, 2016	|[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bd6645f-9a0a-460f-a164-e2463f7d29c6)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4149f10d-30bc-433a-8209-2abca657aef6)	               	|
 |	       React (Again)!       	|	19.2	|	Wed<br>Aug 24, 2016	|	Thu<br>Aug 25, 2016	|	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23a8eb98-a847-4135-b995-c54a1e86f864)<br>[Roger's Class]()               	|
 |	       React & Feel the MERN      	|	19.3	|	Sat<br>Aug 27, 2016	|	Sat<br>Aug 27, 2016	|	[Bill Corbett - HomeAway](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7408b3c9-655e-4689-8894-3ffd2ba08708)<br>[Learn to MERN](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb30655d-d6f2-4b91-bd6e-c6a8606f09d8)               	|
-|	       MERN Stack Development<br>(MongoDB Express React Node)  	|	19.3	|	Mon<br>Aug 29, 2016	|	Tue<br>Aug 30, 2016	|	               	|
-|	       Laravel 	|	20.1	|	Wed<br>Aug 31, 2016	|	Thu<br>Sep 01, 2016	|	               	|
-|	       Laravel 	|	20.2	|	Sat<br>Sep 03, 2016	|	Sat<br>Sep 03, 2016	|	               	|
+|	       PHP Primer  	|	20.1	|	Mon<br>Aug 29, 2016	|	Tue<br>Aug 30, 2016	|[Jim's Clas](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9530ed0-aaf9-4b40-8611-1078adb76051)<br>[Roger's Class]()	               	|
+|	       Laravel 	|	20.2	|	Wed<br>Aug 31, 2016	|	Thu<br>Sep 01, 2016	|	               	|
+|	       Laravel 	|	20.3	|	Sat<br>Sep 03, 2016	|	Sat<br>Sep 03, 2016	|	               	|
 |	       **Career Event On Tuesday<br>No Class Monday**  	|		|	Mon<br>Sep 05, 2016	|	Tue<br>Sep 06, 2016	|	               	|
 |	       Laravel 	|	20.3	|	Wed<br>Sep 07, 2016	|	Thu<br>Sep 08, 2016	|	               	|
 |	       Laravel 	|	21.1	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	               	|
