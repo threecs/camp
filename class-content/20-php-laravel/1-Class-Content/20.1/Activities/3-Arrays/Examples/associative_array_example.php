@@ -5,8 +5,10 @@
 $artist_and_country = [
   'Goethe' => 'Germany',
   'Strindberg' => 'Sweden',
-  'Ibsen' => 'Norway'
+  'Ibsen' => 'Norway',
 ];
+
+echo $artist_and_country[0];
 
 // Getting the value for a key is just like getting the value of a JavaScript
 //   object's  property using bracket notation:

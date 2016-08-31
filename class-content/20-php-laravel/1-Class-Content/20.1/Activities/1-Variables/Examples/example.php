@@ -2,13 +2,15 @@
 
 /* Comments are the same in PHP as in JavaScript.
  *
- * Note that variables start with a $. This is necessary! */
+ * Note that variables start with a $. This is necessary! 
+ */
 
-$name = 'Peleke'; 
-$age  = 23;
+$name ='Roger'; 
+$age  = 30;
 
 // Automatically inserts the value of $name.
-echo "My name is $name.\n"; 
+echo "My name is $name\n";
+echo "and another\n";
 
 // Literally prints $name. Also note that:
 //   1. echo does not add newlines for us; and

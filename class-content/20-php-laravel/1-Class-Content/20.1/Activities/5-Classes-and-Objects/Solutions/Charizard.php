@@ -33,7 +33,7 @@ class Charizard {
   public function speak () {
     /* In $PHP, the $this keyword *always* means:
      *   "the object on which this method was called". */
-     $this->println("Charizard!"); 
+     $this->println("$this->name!"); 
   }
 
   public function attack () {
@@ -58,10 +58,5 @@ class Charizard {
   private function println ($string) {
     echo "$string\n";
   }
-
+  
 }
-
-$char = new Charizard();
-//var_export($char);
-
-$char->attack();
