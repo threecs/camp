@@ -99,17 +99,17 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       Laravel 	|	20.2	|	Wed<br>Aug 31, 2016	|	Thu<br>Sep 01, 2016	|[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ccb716b-f99d-48be-93f1-c230a3894d07)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f90508a-9f7e-4398-95a0-4ddfdb6fe880)	               	|
 |	       Laravel 	|	20.3	|	Sat<br>Sep 03, 2016	|	Sat<br>Sep 03, 2016	|	[Laravel Part 3](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb601d22-65f9-41bb-8949-c1194b4944c0)               	|
 |	       **Career Event On Tuesday<br>No Class Monday**  	|		|	Mon<br>Sep 05, 2016	|	Tue<br>Sep 06, 2016	|	               	|
-|	       Laravel 	|	20.3	|	Wed<br>Sep 07, 2016	|	Thu<br>Sep 08, 2016	|	               	|
-|	       Laravel 	|	21.1	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	               	|
-|	       Laravel 	|	21.2	|	Mon<br>Sep 12, 2016	|	Tue<br>Sep 13, 2016	|	               	|
-|	       Laravel<br>+ Final Project Definitions  	|	21.3	|	Wed<br>Sep 14, 2016	|	Thu<br>Sep 15, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	22.1	|	Sat<br>Sep 17, 2016	|	Sat<br>Sep 17, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	22.2	|	Mon<br>Sep 19, 2016	|	Tue<br>Sep 20, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	22.3	|	Wed<br>Sep 21, 2016	|	Thu<br>Sep 22, 2016	|	               	|
-|	       Interview Question Blitz        	|	  	|	Sat<br>Sep 24, 2016	|	Sat<br>Sep 24, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	23.1	|	Mon<br>Sep 26, 2016	|	Tue<br>Sep 27, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	23.2	|	Wed<br>Sep 28, 2016	|	Thu<br>Sep 29, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	23.3	|	Sat<br>Oct 01, 2016	|	Sat<br>Oct 01, 2016	|	               	|
+|	       React Native Pt 1	|	21.1	|	Wed<br>Sep 07, 2016	|	Thu<br>Sep 08, 2016	|	  [Roger's Class - Allen Garcia](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d4864af-7d7c-4ab3-bfe4-3ff1d8b0b4a6)             	|
+|	       React Native Pt 2 	|	21.2	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	               	|
+|	       Project Work 	|	22.1	|	Mon<br>Sep 12, 2016	|	Tue<br>Sep 13, 2016	|	               	|
+|	       Project Work   	|	22.2	|	Wed<br>Sep 14, 2016	|	Thu<br>Sep 15, 2016	|	               	|
+|	       Project Work<br>Final Project Definitions  	|	22.3	|	Sat<br>Sep 17, 2016	|	Sat<br>Sep 17, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work  	|	23.1	|	Mon<br>Sep 19, 2016	|	Tue<br>Sep 20, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work  	|	23.2	|	Wed<br>Sep 21, 2016	|	Thu<br>Sep 22, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work   |	23.3  	|	Sat<br>Sep 24, 2016	|	Sat<br>Sep 24, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work  	|	24.1	|	Mon<br>Sep 26, 2016	|	Tue<br>Sep 27, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work  	|	24.2	|	Wed<br>Sep 28, 2016	|	Thu<br>Sep 29, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work  	|	24.3	|	Sat<br>Oct 01, 2016	|	Sat<br>Oct 01, 2016	|	               	|
 |	       Project Work    	|		|	Mon<br>Oct 03, 2016	|	Tue<br>Oct 04, 2016	|	               	|
 |	       Project Work    	|		|	Wed<br>Oct 05, 2016	|	Thu<br>Oct 06, 2016	|	               	|
 |	Project Work<br>+ **Where Are You? (Assessment)**	|		|	Sat<br>Oct 08, 2016	|	Sat<br>Oct 08, 2016	|	               	|
