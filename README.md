@@ -100,7 +100,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       Laravel 	|	20.3	|	Sat<br>Sep 03, 2016	|	Sat<br>Sep 03, 2016	|	[Laravel Part 3](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb601d22-65f9-41bb-8949-c1194b4944c0)               	|
 |	       **Career Event On Tuesday<br>No Class Monday**  	|		|	Mon<br>Sep 05, 2016	|	Tue<br>Sep 06, 2016	|	               	|
 |	       React Native Pt 1	|	21.1	|	Wed<br>Sep 07, 2016	|	Thu<br>Sep 08, 2016	|	  [Roger's Class - Allen Garcia](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d4864af-7d7c-4ab3-bfe4-3ff1d8b0b4a6)             	|
-|	       React Native Pt 2 	|	21.2	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	               	|
+|	       React Native Pt 2 	|	21.2	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	[Final Project](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c021737-04dd-42f6-ae9b-084c93982093)<br>[React Pt 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c942b466-a5ea-473f-95f1-0f03dfc9a727)<br>[React Pt 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8b7b39a-3ca3-4a1c-8cc1-a675d26f4f9f)               	|
 |	       Project Work 	|	22.1	|	Mon<br>Sep 12, 2016	|	Tue<br>Sep 13, 2016	|	               	|
 |	       Project Work   	|	22.2	|	Wed<br>Sep 14, 2016	|	Thu<br>Sep 15, 2016	|	               	|
 |	       Project Work<br>Final Project Definitions  	|	22.3	|	Sat<br>Sep 17, 2016	|	Sat<br>Sep 17, 2016	|	               	|
