@@ -1,5 +1,4 @@
 #BlueJ class context
 comment0.params=args
 comment0.target=void\ main(java.lang.String[])
-comment0.text=\ We'll\ cover\ the\ meaning\ of\ public,\ static,\ and\ void\ soon.\ For\ now,\ note\n\ \ \ two\ things\:\n\ \ \ \n\ \ \ 1.\ This\ must\ read\:\ public\ static\ void\ main(String[]\ args).\ \n\ \ \ Anything\ else\ will\ break.\n\n\ \ \ 2.\ Focus\ your\ attention\ on\ "main".\ This\ is\ called\ the\ "entry\ point"\ to\ your\n\ \ \ program.\ This\ is\ effectively\ the\ "startup"\ function\ for\ your\ application\n\ \ \ code,\ where\ everything\ gets\ wired\ together.\ \n
 numComments=1
