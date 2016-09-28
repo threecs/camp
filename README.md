@@ -101,18 +101,18 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	       **Career Event On Tuesday<br>No Class Monday**  	|		|	Mon<br>Sep 05, 2016	|	Tue<br>Sep 06, 2016	|	               	|
 |	       React Native Pt 1	|	21.1	|	Wed<br>Sep 07, 2016	|	Thu<br>Sep 08, 2016	|	  [Roger's Class - Allen Garcia](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d4864af-7d7c-4ab3-bfe4-3ff1d8b0b4a6)             	|
 |	       React Native Pt 2 	|	21.2	|	Sat<br>Sep 10, 2016	|	Sat<br>Sep 10, 2016	|	[Final Project](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c021737-04dd-42f6-ae9b-084c93982093)<br>[React Pt 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c942b466-a5ea-473f-95f1-0f03dfc9a727)<br>[React Pt 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8b7b39a-3ca3-4a1c-8cc1-a675d26f4f9f)               	|
-|	       Project Work 	|	22.1	|	Mon<br>Sep 12, 2016	|	Tue<br>Sep 13, 2016	|	               	|
-|	       Project Work   	|	22.2	|	Wed<br>Sep 14, 2016	|	Thu<br>Sep 15, 2016	|	               	|
+|	       Computer Science Fundamentals <br>Project Work 	|	22.1	|	Mon<br>Sep 12, 2016	|	Tue<br>Sep 13, 2016	|	               	[Jim's Class]([Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f31f6dab-8b94-483e-8fdf-f7e1cb7da3dc))<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12f40e65-c363-40a3-b2b8-fe42293a6b0e)|
+|	       Computer Science Fundamentals <br>Project Work   	|	22.2	|	Wed<br>Sep 14, 2016	|	Thu<br>Sep 15, 2016	|	               	[Jim's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f31f6dab-8b94-483e-8fdf-f7e1cb7da3dc)<br>[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca39838-91ee-4ef5-833d-bd8c3fa4286f)|
 |	       Project Work<br>Final Project Definitions  	|	22.3	|	Sat<br>Sep 17, 2016	|	Sat<br>Sep 17, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	23.1	|	Mon<br>Sep 19, 2016	|	Tue<br>Sep 20, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	23.2	|	Wed<br>Sep 21, 2016	|	Thu<br>Sep 22, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work   |	23.3  	|	Sat<br>Sep 24, 2016	|	Sat<br>Sep 24, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	24.1	|	Mon<br>Sep 26, 2016	|	Tue<br>Sep 27, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	24.2	|	Wed<br>Sep 28, 2016	|	Thu<br>Sep 29, 2016	|	               	|
-|	       Computer Science Fundamentals <br>Project Work  	|	24.3	|	Sat<br>Oct 01, 2016	|	Sat<br>Oct 01, 2016	|	               	|
+|	       Python Crash Course <br>Project Work  	|	23.1	|	Mon<br>Sep 19, 2016	|	Tue<br>Sep 20, 2016	|	[Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=356105ff-73d2-4736-8b63-0507e2c9060e)               	|
+|	       Ruby Crash Course <br>Project Work  	|	23.2	|	Wed<br>Sep 21, 2016	|	Thu<br>Sep 22, 2016	| [Roger's Class](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b563e691-6f31-41d3-86bc-377b268b28f8)	               	|
+|	       Java Crash Course <br>Project Work   |	23.3  	|	Sat<br>Sep 24, 2016	|	Sat<br>Sep 24, 2016	|[Java](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8dd6bfe7-6bf0-4f83-b6c1-84802fbeeeb0)	               	|
+|	       Project Work  	|	24.1	|	Mon<br>Sep 26, 2016	|	Tue<br>Sep 27, 2016	|[Roger's Class - Job Hunting Lightning Talk](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f52836e-0a25-4acd-9824-c5a390a1c672)	               	|
+|	       Project Work  	|	24.2	|	Wed<br>Sep 28, 2016	|	Thu<br>Sep 29, 2016	|	               	|
+|	       Project Work  	|	24.3	|	Sat<br>Oct 01, 2016	|	Sat<br>Oct 01, 2016	|	               	|
 |	       Project Work    	|		|	Mon<br>Oct 03, 2016	|	Tue<br>Oct 04, 2016	|	               	|
 |	       Project Work    	|		|	Wed<br>Oct 05, 2016	|	Thu<br>Oct 06, 2016	|	               	|
-|	Project Work<br>+ **Where Are You? (Assessment)**	|		|	Sat<br>Oct 08, 2016	|	Sat<br>Oct 08, 2016	|	               	|
+|	Project Work<br>+ **Where Are You? (Assessment)**	|	|Sat<br>Oct 08, 2016|	Sat<br>Oct 08, 2016	|	               	|
 |	       **Demo Day**    	|		|	Mon<br>Oct 10, 2016	|	Tue<br>Oct 11, 2016	|	               	|
 |	       Conclusion      	|		|	Wed<br>Oct 12, 2016	|	Thu<br>Oct 13, 2016	|	               	|
 |	               	|		|	Sat<br>Oct 15, 2016	|	Sat<br>Oct 15, 2016	|	               	|
