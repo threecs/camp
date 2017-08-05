@@ -115,3 +115,4 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	Project Work<br>+ **Where Are You? (Assessment)**	|	|Sat<br>Oct 08, 2016|	Sat<br>Oct 08, 2016	|	               	|
 |	       Final Preparations    	|		|	Mon<br>Oct 10, 2016	|	Tue<br>Oct 11, 2016	|	               	|
 |	       **Demo Day @ IBM**      	|		|	Wed<br>Oct 12, 2016	|	Wed<br>Oct 12, 2016	|	               	|
+=======
